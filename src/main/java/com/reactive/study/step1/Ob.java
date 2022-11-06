@@ -1,4 +1,4 @@
-package com.reactive.study.object;
+package com.reactive.study.step1;
 
 import java.util.Observable;
 import java.util.Observer;
